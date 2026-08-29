@@ -1,0 +1,15 @@
+[project]
+name = "voltage-divider"
+version = "0.1.0"
+description = "Voltage divider plus ADC count mapping."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Roberts Treize" }]
+[project.urls]
+Homepage = "https://robertstreize.com/lab.html"
+[project.scripts]
+voltage_divider = "voltage_divider.cli:main"
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
