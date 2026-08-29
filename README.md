@@ -6,6 +6,10 @@ Live: [https://robertstreize.com/lab.html#divider](https://robertstreize.com/lab
 
 ## Extra
 
+ADC counts, load error, Johnson noise, E24 pair search for a target Vout.
+
+Was a one-function calculator. This is the product.
+
 Maps Vout onto an N-bit ADC: counts, LSB, and whether you are railing.
 
 ## Install
